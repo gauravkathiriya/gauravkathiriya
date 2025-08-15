@@ -55,12 +55,9 @@ I'm a results-driven **Full Stack Developer** specializing in building scalable,
 
 ---
 
-<!-- Social links can be added here if you'd like -->
-<!--
 ## 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | [Twitter](https://twitter.com/YOUR-TWITTER) | [Website](https://YOUR-WEBSITE)
--->
+[LinkedIn](https://www.linkedin.com/in/gaurav-kathiriya-66b1ab267) 
 
 ---
 
